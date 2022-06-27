@@ -15,4 +15,10 @@ Before opening the surf shop, W. Avy wants to see more temperature data for the 
 
 # Summary:
 
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
+After reviewing the results, the surf shop would do well throughout the year since the difference in average temperature in June and December is only 4 degrees! The weather does get colder in December, however the difference in minimum temperature is only 8 degrees.
+
+Additional weather information:
+- Average precipitaion in June is .136 inches with a max of 4.4.
+- Average precipitation in December is .217 inches with a max of 6.4.
+
+While the weather is slightly colder and more rainy in December in Oahu, it is still a great location for a year round surf and ice cream shop!
